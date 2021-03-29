@@ -1,0 +1,51 @@
+﻿id,title,cardType,type,primaryColor,secondaryColors,requirements,hazard,cards,credits,prestige,reward_count,1-hazard/reward,expansion,imagePath,fileName
+1,Reactor Failure,Contract,Rescue,G,B,1S 1R,0,0,3,0,3,1,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_1.png,Contract_1.png
+2,Blockade Run,Contract,Delivery,Y,G,1T 1S,0,0,3,0,3,1,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_2.png,Contract_2.png
+3,Kill Slavers,Contract,Kill,O,Y,1D 1T,0,0,4,0,4,1,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_3.png,Contract_3.png
+4,Space Anomaly,Contract,Explore,B,O,1R 1D,0,0,3,0,3,1,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_4.png,Contract_4.png
+5,Supernova Escape,Contract,Rescue,G,Y,2S 1T,1,0,3,1,4,0.75,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_5.png,Contract_5.png
+6,Fuel Shortage,Contract,Delivery,Y,O,2T 2D,1,0,3,1,4,0.75,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_6.png,Contract_6.png
+7,Rival Pirate Gang,Contract,Kill,O,G,2D 1S,1,0,3,1,4,0.75,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_7.png,Contract_7.png
+8,Pirate Treasure,Contract,Explore,B,G,2R 1S,1,0,2,1,3,0.666666667,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_8.png,Contract_8.png
+9,Transport Rescue,Contract,Rescue,G,P,2S 1C,1,0,3,1,4,0.75,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_9.png,Contract_9.png
+10,Stim Run,Contract,Delivery,Y,B,2T 1R,1,0,2,1,3,0.666666667,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_10.png,Contract_10.png
+11,Claim Bounty,Contract,Kill,O,B,3D 2R,1,0,3,1,4,0.75,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_11.png,Contract_11.png
+12,Distress Beacon,Contract,Explore,B,P,3R 1C,1,0,3,1,4,0.75,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_12.png,Contract_12.png
+13,Envoy In Distress,Contract,Rescue,G,O,2S 2D,2,1,2,1,4,0.5,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_13.png,Contract_13.png
+14,Escort Duty,Contract,Delivery,Y,P,3T 1C,1,1,2,1,4,0.75,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_14.png,Contract_14.png
+15,Core World Ace,Contract,Kill,O,,5D,1,1,5,1,7,0.857142857,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_15.png,Contract_15.png
+16,Probe Recovery,Contract,Explore,B,Y,3R 2T,1,1,2,1,4,0.75,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_16.png,Contract_16.png
+17,Escape Pods,Contract,Rescue,G,O,3S 3O,2,0,7,2,9,0.777777778,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_17.png,Contract_17.png
+18,Refugee Crisis,Contract,Delivery,Y,P,3T 2C,2,0,7,2,9,0.777777778,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_18.png,Contract_18.png
+19,Scout Cruiser,Contract,Kill,O,G,5D 2S,3,0,6,3,9,0.666666667,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_19.png,Contract_19.png
+20,Ancient Ruins,Contract,Explore,B,Y,4R 4T,2,0,7,2,9,0.777777778,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_20.png,Contract_20.png
+21,Icarus Run,Contract,Rescue,G,Y,3S 3T,2,0,8,2,10,0.8,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_21.png,Contract_21.png
+22,Proof of Life,Contract,Delivery,Y,B,4T 4R,2,0,4,3,7,0.714285714,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_22.png,Contract_22.png
+23,Bounty Hunters,Contract,Kill,O,P,6D 2C,3,0,6,3,9,0.666666667,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_23.png,Contract_23.png
+24,Asteroid Field,Contract,Explore,B,P,4R 3C,2,0,8,2,10,0.8,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_24.png,Contract_24.png
+25,Cryogency Pods,Contract,Rescue,G,B,4S 4R,3,0,7,3,10,0.7,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_25.png,Contract_25.png
+26,Munitions Stockpile,Contract,Delivery,Y,G,4T 3S,2,0,7,3,10,0.8,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_26.png,Contract_26.png
+27,Bomber Screen,Contract,Kill,O,Y,6D 3T,3,0,9,3,12,0.75,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_27.png,Contract_27.png
+28,Nova Bloom,Contract,Explore,B,G,5R 3S,3,0,7,3,10,0.7,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_28.png,Contract_28.png
+29,Martial Law,Contract,Rescue,G,P,2S 2C,2,1,4,1,6,0.666666667,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_29.png,Contract_29.png
+30,Negotiation Insurance,Contract,Delivery,Y,O,3T 1D,2,1,2,1,4,0.5,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_30.png,Contract_30.png
+31,Assault on Vilonia,Contract,Kill,O,,8D,2,1,5,3,9,0.777777778,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_31.png,Contract_31.png
+32,Abandoned Vessel,Contract,Explore,B,O,3R 3D,2,1,4,1,6,0.666666667,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_32.png,Contract_32.png
+33,Resistance Leader,Contract,Rescue,G,Y P,4S 2T 2C,3,0,6,4,10,0.7,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_33.png,Contract_33.png
+34,Emergency Meds,Contract,Delivery,Y,O B,4T 4D 3R,2,0,8,3,11,0.818181818,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_34.png,Contract_34.png
+35,Elite Squadron,Contract,Kill,O,B G,8D 4R 3S,3,1,6,4,11,0.727272727,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_35.png,Contract_35.png
+36,Derilect Planet,Contract,Explore,B,P Y,5R 3C 2T,2,0,8,3,11,0.818181818,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_36.png,Contract_36.png
+37,Prison Moon,Contract,Rescue,G,Y O,5S 4T 2D,4,0,10,5,15,0.733333333,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_37.png,Contract_37.png
+38,Royal Cargo,Contract,Delivery,Y,O P,5T 5D 2C,4,0,10,5,15,0.733333333,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_38.png,Contract_38.png
+39,Admiral's Flagship,Contract,Kill,O,G B,8D 5S 5R,4,1,11,5,17,0.764705882,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_39.png,Contract_39.png
+40,Black Hole,Contract,Explore,P,B Y,5C 4R 4T,4,0,12,5,17,0.764705882,Base,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_40.png,Contract_40.png
+41,Decoy Target,Contract,Rescue,G,Y,4S 4T,3,0,3,3,6,0.5,First Encounter,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_41.png,Contract_41.png
+42,Gauntlet Run,Contract,Delivery,Y,O,4T 4D,2,2,0,3,5,0.6,First Encounter,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_42.png,Contract_42.png
+43,Focused Fire,Contract,Kill,O,B,6D 4T,3,3,0,3,6,0.5,First Encounter,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_43.png,Contract_43.png
+44,First Contact,Contract,Explore,B,G,5R 3S,2,2,0,3,5,0.6,First Encounter,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_44.png,Contract_44.png
+45,Boarding Action,Contract,Explore,P,O,4C 5D,3,2,0,4,6,0.5,First Encounter,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_45.png,Contract_45.png
+46,Illegal Munitions,Contract,Delivery,Y,O,3T 4D,2,0,8,2,10,0.8,Shard,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_46.png,Contract_46.png
+47,Decoy Convoy,Contract,Rescue,G,O,3S 3D,2,0,6,2,8,0.75,Shard,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_47.png,Contract_47.png
+48,Hunt the Hunter,Contract,Kill,O,,7D,2,0,7,3,10,0.8,Shard,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_48.png,Contract_48.png
+49,Hostage Extraction,Contract,Rescue,P,G,3C 2S,2,0,6,3,9,0.777777778,Shard,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_49.png,Contract_49.png
+50,Deep Space Scan,Contract,Explore,B,G,4R 4S,3,0,8,2,10,0.7,Shard,/Users/kgutowski/Desktop/MR Cards/Contract/Contract_50.png,Contract_50.png
